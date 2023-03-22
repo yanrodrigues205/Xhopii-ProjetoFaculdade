@@ -1,46 +1,20 @@
-# Getting Started with Create React App
+#  🤝 Acesse já a página do projeto - Access the project page now 👉 https://yanrodrigues205.github.io/Xhopii-ProjetoFaculdade/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Tools - Ferramentas
 
-## Available Scripts
+ <img alt='Yan languages' aling='center' src='https://skillicons.dev/icons?i=nodejs,react,typescript,javascript,html,css' class='languages'>
+ 
+##OQUE E ESTE PROJETO? - WHAT IS THIS PROJECT?
+O objetivo deste projeto foi realizar a construção do front-end de um e-commerce, denominado de Xhopii, o layout foi repassado pelo mestre(professor) pelo figma, o mesmo deveria ser replicado em HTML, CSS e JavaScript, no entanto utilizei algumas ferramentas mais atuais como React e Typescript.
 
-In the project directory, you can run:
+The objective of this project was to carry out the construction of the front-end of an e-commerce, called Xhopii, the layout was passed on by the master (teacher) by figma, the same should be replicated in HTML, CSS and JavaScript, however I used some more current tools like React and Typescript.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Projeto Final / Responsivo - Responsive / Finished Project
+![image](https://user-images.githubusercontent.com/92941649/227055141-9921bb45-54db-4f6f-bc30-9c6c36096590.png)
+![image](https://user-images.githubusercontent.com/92941649/227055249-2bdfdb21-dff2-40f8-b1dd-88eea0d0c845.png)
+![image](https://user-images.githubusercontent.com/92941649/227055895-c157ab7f-4596-4dea-bde0-2971ed8c5818.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
