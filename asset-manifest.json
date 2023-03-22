@@ -1,16 +1,20 @@
 {
   "files": {
-    "main.css": "/Xhopii-ProjetoFaculdade/static/css/main.073c9b0a.css",
-    "main.js": "/Xhopii-ProjetoFaculdade/static/js/main.22c97a47.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Xhopii-ProjetoFaculdade/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/Xhopii-ProjetoFaculdade/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/Xhopii-ProjetoFaculdade/static/css/main.781f9bdb.css",
+    "main.js": "/Xhopii-ProjetoFaculdade/static/js/main.354d4c0c.js",
+    "static/media/fonte.ttf": "/Xhopii-ProjetoFaculdade/static/media/fonte.1cbb1b79a23478cc89ad.ttf",
+    "static/media/produto5.png": "/Xhopii-ProjetoFaculdade/static/media/produto5.3381d16e02e2c472316a.png",
+    "static/media/produto4.png": "/Xhopii-ProjetoFaculdade/static/media/produto4.3c3375a0ed086449e7f8.png",
+    "static/media/produto3.png": "/Xhopii-ProjetoFaculdade/static/media/produto3.f671595512ea716512a3.png",
+    "static/media/produto2.png": "/Xhopii-ProjetoFaculdade/static/media/produto2.21a301b8d7a06f4a22c5.png",
+    "static/media/produto1.png": "/Xhopii-ProjetoFaculdade/static/media/produto1.68ec33e645ef68e3524f.png",
+    "static/media/logo.png": "/Xhopii-ProjetoFaculdade/static/media/logo.e2d6dfb6159f014f6527.png",
     "index.html": "/Xhopii-ProjetoFaculdade/index.html",
-    "main.073c9b0a.css.map": "/Xhopii-ProjetoFaculdade/static/css/main.073c9b0a.css.map",
-    "main.22c97a47.js.map": "/Xhopii-ProjetoFaculdade/static/js/main.22c97a47.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Xhopii-ProjetoFaculdade/static/js/787.28cb0dcd.chunk.js.map"
+    "main.781f9bdb.css.map": "/Xhopii-ProjetoFaculdade/static/css/main.781f9bdb.css.map",
+    "main.354d4c0c.js.map": "/Xhopii-ProjetoFaculdade/static/js/main.354d4c0c.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.22c97a47.js"
+    "static/css/main.781f9bdb.css",
+    "static/js/main.354d4c0c.js"
   ]
 }
